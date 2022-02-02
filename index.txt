@@ -155,3 +155,6 @@ Para obter a versão mais atualizada visite www.xota.com.br para adquirir a vers
             Ecologia
         Interação com outras comunidades de radioamadores
             Radioescotismo
+
+    SOTA e outros programas 
+        Semelhanças e diferenças entre SOTA e outros programas 'On The Air'
